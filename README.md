@@ -15,7 +15,7 @@ The goal is to truly understand the concepts, not just copy code!
 
 | Chapter | Topic | Status |
 |---------|-------|--------|
-| 1 | The Machine Learning Landscape | - |
+| 1 | The Machine Learning Landscape | Completed |
 | 2 | End-to-End Machine Learning Project | Completed |
 | 3 | Classification | - |
 | 4 | Training Models | - |
