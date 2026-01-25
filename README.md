@@ -17,7 +17,7 @@ The goal is to truly understand the concepts, not just copy code!
 |---------|-------|--------|
 | 1 | The Machine Learning Landscape | Completed |
 | 2 | End-to-End Machine Learning Project | Completed |
-| 3 | Classification | - |
+| 3 | Classification | Completed |
 | 4 | Training Models | - |
 | 5 | Support Vector Machines | - |
 | 6 | Decision Trees | - |
@@ -46,6 +46,20 @@ The California Housing project covers the **complete ML workflow**:
 
 **Key Lesson:** Always use pipelines! They prevent data leakage and make deployment easy.
 
+## Chapter 3 Highlights
+
+Classification with the MNIST handwritten digits dataset:
+
+1. **Binary Classification** - Build a "5-detector" (is it a 5 or not?)
+2. **Performance Metrics** - Why accuracy is misleading for imbalanced datasets
+3. **Confusion Matrix** - True/False Positives/Negatives explained
+4. **Precision & Recall** - The fundamental trade-off
+5. **ROC Curve & AUC** - Comparing classifiers across all thresholds
+6. **Multiclass Classification** - One-vs-Rest (OvR) strategy
+7. **Feature Scaling** - Why it matters for SVMs and gradient-based methods
+
+**Key Lesson:** Accuracy alone is not enough! Use precision, recall, F1, and confusion matrices for a complete picture.
+
 ## Tools Used
 
 - Python 3.x
@@ -68,4 +82,4 @@ Feel free to use these notebooks for your own learning!
 
 ---
 
-*Currently studying: Chapter 2 completed*
+*Currently studying: Chapter 3 completed*
