@@ -18,13 +18,13 @@ The goal is to truly understand the concepts, not just copy code!
 | 1 | The Machine Learning Landscape | Completed |
 | 2 | End-to-End Machine Learning Project | Completed |
 | 3 | Classification | Completed |
-| 4 | Training Models | - |
+| 4 | Training Models | Completed |
 | 5 | Support Vector Machines | - |
 | 6 | Decision Trees | - |
 | 7 | Ensemble Learning and Random Forests | - |
 | 8 | Dimensionality Reduction | - |
 | 9 | Unsupervised Learning Techniques | - |
-| 10 | Introduction to Artificial Neural Networks with Keras | - |
+| 10 | Introduction to Artificial Neural Networks with Keras | Here :) |
 | 11-19 | Deep Learning chapters | - |
 
 ## Chapter 2 Highlights
