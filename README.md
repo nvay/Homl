@@ -24,8 +24,8 @@ The goal is to truly understand the concepts, not just copy code!
 | 7 | Ensemble Learning and Random Forests | - |
 | 8 | Dimensionality Reduction | - |
 | 9 | Unsupervised Learning Techniques | - |
-| 10 | Introduction to Artificial Neural Networks with Keras | Here :) |
-| 11-19 | Deep Learning chapters | - |
+| 10 | Introduction to Artificial Neural Networks with Keras | Completed |
+| 11-19 | Deep Learning chapters | Suffering here |
 
 ## Chapter 2 Highlights
 
