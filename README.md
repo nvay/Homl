@@ -24,8 +24,9 @@ The goal is to truly understand the concepts, not just copy code!
 | 7 | Ensemble Learning and Random Forests | - |
 | 8 | Dimensionality Reduction | - |
 | 9 | Unsupervised Learning Techniques | - |
-| 10 | Introduction to Artificial Neural Networks with Keras | Completed |
-| 11-19 | Deep Learning chapters | Suffering here |
+| 10 | Introduction to Artificial Neural Networks | Completed |
+| 11 | Training Deep Neural Networks | Completed |
+| 12 | Custom Models and Training with PyTorch | In Progress |
 
 ## Chapter 2 Highlights
 
@@ -63,6 +64,7 @@ Classification with the MNIST handwritten digits dataset:
 ## Tools Used
 
 - Python 3.x
+- PyTorch
 - Scikit-Learn
 - Pandas & NumPy
 - Matplotlib
@@ -82,4 +84,4 @@ Feel free to use these notebooks for your own learning!
 
 ---
 
-*Currently studying: Chapter 3 completed*
+*Currently studying: Chapter 12 - CNNs and Computer Vision*
